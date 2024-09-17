@@ -1,3 +1,9 @@
 Q1: Why might we consider using git?
 
 Answer: since it is convenient for all parties
+
+Q2: What field could data science be applied to? Give an example and how it might help
+
+Answer: Professional sports. Using data and statistics to help teams optimize their strategies for teams.
+
+
