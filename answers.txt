@@ -1,0 +1,3 @@
+Q1: Why might we consider using git?
+
+Answer: since it is convenient for all parties
